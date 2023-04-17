@@ -8,7 +8,7 @@
 
 ## Books:
 1. [Quantum computing for Computer Scientists](https://drive.google.com/file/d/1RBpnlVNO6pHLWw0I6ubLLhBxLRMBYYaA/view?usp=sharing) (first 6 chapters are recommended to brush up your math and basic concepts)
-2. [Introduction to Classical and Quantum Computing](https://www.thomaswong.net/)
+2. [Introduction to Classical and Quantum Computing](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf)
 3. [Bioinformatics Algorithms-Vol-I](https://drive.google.com/file/d/1apmI2-vGw61uCxnALipwxWR2ZkGDRkA5/view?usp=sharing) (Basic Bio)
 4. [Bioinformatics Algorithms-Vol-II](https://drive.google.com/file/d/1JfbINdQKC_QtrYskp261TM5e-ztlo_qk/view?usp=sharing)
 
@@ -19,6 +19,7 @@
 4. Get started with Qiskit:
    - How to Install Qiskit: [YouTube tutorial](https://youtu.be/M4EkW4VwhcI)
    - Hello World: [YouTube tutorial](https://youtu.be/RrUTwq5jKM4)
+   - Youtube: [Official channel](https://www.youtube.com/c/qiskit)
 5. Qiskit Tutorials: [Official website](https://qiskit.org/documentation/tutorials.html)
 6. Qiskit Courses: [Official website](https://qiskit.org/learn/)
 7. IBM Algo Queen Quantum Contest: [Discussion forum](https://discuss.codedrills.io/t/ibm-algo-queen-quantum-contest/3128)
