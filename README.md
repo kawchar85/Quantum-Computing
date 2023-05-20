@@ -24,9 +24,10 @@ This repository contains code and resources related to quantum computing, a fasc
 5. Qiskit Tutorials: [Official website](https://qiskit.org/documentation/tutorials.html)
 6. Qiskit Notebooks: [Github](https://github.com/qiskit-community/qiskit-community-tutorials/tree/master)
 7. Qiskit Courses: [Official website](https://qiskit.org/learn/)
-8. IBM Algo Queen Quantum Contest: [Discussion forum](https://discuss.codedrills.io/t/ibm-algo-queen-quantum-contest/3128)
-9. IBM Quantum’s open access quantum computers: [Official website](https://quantum-computing.ibm.com/)
-10. QC resources 2017: [pdf](https://drive.google.com/file/d/1doUhkqRYLZhTVBa72MBVndvYQttfhv_2/view?usp=sharing)
-11. QC Bangla resources from MIRZA NIHAL BAIG
+8. Dynamic Circuit: [Tutorials](https://quantum-computing.ibm.com/services/programs/docs/runtime/manage/systems/dynamic-circuits/introduction)
+9. IBM Algo Queen Quantum Contest: [Discussion forum](https://discuss.codedrills.io/t/ibm-algo-queen-quantum-contest/3128)
+10. IBM Quantum’s open access quantum computers: [Official website](https://quantum-computing.ibm.com/)
+11. QC resources 2017: [pdf](https://drive.google.com/file/d/1doUhkqRYLZhTVBa72MBVndvYQttfhv_2/view?usp=sharing)
+12. QC Bangla resources from MIRZA NIHAL BAIG
     - [Quantum Part-1](https://drive.google.com/drive/folders/1ExBQWdT2p2ekZ35FGNvQ-GK8Vw0hf8UG?usp=sharing)
     - [Quantum Part-2](https://drive.google.com/drive/folders/1OV5aS0X-_E1lp3OwTro_1d-akuOJfDfL?usp=sharing)
